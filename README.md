@@ -1,6 +1,5 @@
-:
 
-🛒 E-Commerce Website
+#🛒 E-Commerce Website
 A responsive e-commerce web application built using PHP, HTML, CSS, and JavaScript. This platform allows users to browse products, manage their shopping cart, and place orders seamlessly.
 
 📌 Features
